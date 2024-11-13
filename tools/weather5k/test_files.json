@@ -1,0 +1,74 @@
+{
+    "71265099999.csv": {
+        "valid_percent": 0.9977683461117196,
+        "longitude": -79.3833333,
+        "latitude": 43.6166666,
+        "ELEVATION": 76.5
+    },
+    "72317493783.csv": {
+        "valid_percent": 0.9879837531945965,
+        "longitude": -79.47694,
+        "latitude": 36.04667,
+        "ELEVATION": 184.9
+    },
+    "72403093738.csv": {
+        "valid_percent": 0.9986924972617743,
+        "longitude": -77.44728,
+        "latitude": 38.93486,
+        "ELEVATION": 89.5
+    },
+    "72537094847.csv": {
+        "valid_percent": 0.9678053121577218,
+        "longitude": -83.3308,
+        "latitude": 42.2313,
+        "ELEVATION": 191.9
+    },
+    "72308693741.csv": {
+        "valid_percent": 0.997793446513326,
+        "longitude": -76.49306,
+        "latitude": 37.13194,
+        "ELEVATION": 10.9
+    },
+    "71263099999.csv": {
+        "valid_percent": 0.9990073932092004,
+        "longitude": -79.935,
+        "latitude": 43.173611,
+        "ELEVATION": 237.74
+    },
+    "72622794790.csv": {
+        "valid_percent": 0.9986788061336254,
+        "longitude": -76.02623,
+        "latitude": 43.98867,
+        "ELEVATION": 94.7
+    },
+    "72520094823.csv": {
+        "valid_percent": 0.998496257758306,
+        "longitude": -80.2144,
+        "latitude": 40.4846,
+        "ELEVATION": 341.0
+    },
+    "72317013723.csv": {
+        "valid_percent": 0.9992561153705732,
+        "longitude": -79.9432,
+        "latitude": 36.0969,
+        "ELEVATION": 275.0
+    },
+    "72514014778.csv": {
+        "valid_percent": 0.994402610441767,
+        "longitude": -76.9218,
+        "latitude": 41.24295,
+        "ELEVATION": 159.8
+    },
+    "72637014826.csv": {
+        "valid_percent": 0.9991032311062431,
+        "longitude": -83.7494,
+        "latitude": 42.9666,
+        "ELEVATION": 234.8
+    },
+    "72420014891.csv": {
+        "valid_percent": 0.9991990690032859,
+        "longitude": -82.5178,
+        "latitude": 40.8204,
+        "ELEVATION": 392.8
+    }
+}

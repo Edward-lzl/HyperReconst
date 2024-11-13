@@ -1,0 +1,740 @@
+{
+    "72637014826.csv": {
+        "valid_percent": 0.9991032311062431,
+        "longitude": -83.7494,
+        "latitude": 42.9666,
+        "ELEVATION": 234.8
+    },
+    "72537494889.csv": {
+        "valid_percent": 0.9942862358525009,
+        "longitude": -83.74444,
+        "latitude": 42.22278,
+        "ELEVATION": 250.6
+    },
+    "72637594817.csv": {
+        "valid_percent": 0.9985350492880614,
+        "longitude": -83.41806,
+        "latitude": 42.665,
+        "ELEVATION": 295.4
+    },
+    "72537614853.csv": {
+        "valid_percent": 0.9978641840087623,
+        "longitude": -83.53333,
+        "latitude": 42.23333,
+        "ELEVATION": 215.7
+    },
+    "72536094830.csv": {
+        "valid_percent": 0.9980809602044541,
+        "longitude": -83.8055,
+        "latitude": 41.5871,
+        "ELEVATION": 205.5
+    },
+    "72537094847.csv": {
+        "valid_percent": 0.9678053121577218,
+        "longitude": -83.3308,
+        "latitude": 42.2313,
+        "ELEVATION": 191.9
+    },
+    "72428704848.csv": {
+        "valid_percent": 0.9992583972252647,
+        "longitude": -83.47639,
+        "latitude": 41.56306,
+        "ELEVATION": 189.0
+    },
+    "72536614825.csv": {
+        "valid_percent": 0.9996098028477547,
+        "longitude": -83.66861,
+        "latitude": 41.01361,
+        "ELEVATION": 246.5
+    },
+    "72537714804.csv": {
+        "valid_percent": 0.9977911646586345,
+        "longitude": -82.8183,
+        "latitude": 42.6083,
+        "ELEVATION": 176.8
+    },
+    "71538099999.csv": {
+        "valid_percent": 0.997122581234027,
+        "longitude": -82.955556,
+        "latitude": 42.275556,
+        "ELEVATION": 189.58
+    },
+    "71298099999.csv": {
+        "valid_percent": 0.947964585615188,
+        "longitude": -82.9,
+        "latitude": 42.0333333,
+        "ELEVATION": 191.0
+    },
+    "71704099999.csv": {
+        "valid_percent": 0.997307411464038,
+        "longitude": -82.3166666,
+        "latitude": 43.0,
+        "ELEVATION": 181.05
+    },
+    "71746099999.csv": {
+        "valid_percent": 0.9928053121577218,
+        "longitude": -82.3,
+        "latitude": 43.0,
+        "ELEVATION": 181.0
+    },
+    "72429563888.csv": {
+        "valid_percent": 0.9733091456736035,
+        "longitude": -83.84,
+        "latitude": 39.84028,
+        "ELEVATION": 320.3
+    },
+    "71261099999.csv": {
+        "valid_percent": 0.991700894487039,
+        "longitude": -81.7166666,
+        "latitude": 43.7666666,
+        "ELEVATION": 214.0
+    },
+    "72429613841.csv": {
+        "valid_percent": 0.9984414932457101,
+        "longitude": -83.77698,
+        "latitude": 39.43087,
+        "ELEVATION": 324.9
+    },
+    "72520804855.csv": {
+        "valid_percent": 0.9736924972617744,
+        "longitude": -83.06361,
+        "latitude": 40.61611,
+        "ELEVATION": 300.3
+    },
+    "72428804804.csv": {
+        "valid_percent": 0.9991785323110625,
+        "longitude": -83.07806,
+        "latitude": 40.07806,
+        "ELEVATION": 275.0
+    },
+    "71307099999.csv": {
+        "valid_percent": 0.9816926798101497,
+        "longitude": -81.8833333,
+        "latitude": 42.45,
+        "ELEVATION": 206.0
+    },
+    "72420014891.csv": {
+        "valid_percent": 0.9991990690032859,
+        "longitude": -82.5178,
+        "latitude": 40.8204,
+        "ELEVATION": 392.8
+    },
+    "72428014821.csv": {
+        "valid_percent": 0.9992378605330413,
+        "longitude": -82.877,
+        "latitude": 39.9907,
+        "ELEVATION": 246.8
+    },
+    "72521404849.csv": {
+        "valid_percent": 0.9976245892661555,
+        "longitude": -82.17944,
+        "latitude": 41.34611,
+        "ELEVATION": 241.0
+    },
+    "71631099999.csv": {
+        "valid_percent": 0.9950985761226725,
+        "longitude": -80.75,
+        "latitude": 43.9833333,
+        "ELEVATION": 415.0
+    },
+    "71623099999.csv": {
+        "valid_percent": 0.9986970609711574,
+        "longitude": -81.153889,
+        "latitude": 43.035556,
+        "ELEVATION": 277.97
+    },
+    "72524014820.csv": {
+        "valid_percent": 0.9996645673603505,
+        "longitude": -81.852,
+        "latitude": 41.4057,
+        "ELEVATION": 236.8
+    },
+    "72429453844.csv": {
+        "valid_percent": 0.9952195144213216,
+        "longitude": -82.65722,
+        "latitude": 39.75556,
+        "ELEVATION": 258.7
+    },
+    "72522904858.csv": {
+        "valid_percent": 0.9830207192405988,
+        "longitude": -82.4625,
+        "latitude": 40.02278,
+        "ELEVATION": 267.6
+    },
+    "72524504853.csv": {
+        "valid_percent": 0.998112906170135,
+        "longitude": -81.68361,
+        "latitude": 41.5175,
+        "ELEVATION": 177.5
+    },
+    "72521604842.csv": {
+        "valid_percent": 0.9964266155531216,
+        "longitude": -81.88667,
+        "latitude": 40.87306,
+        "ELEVATION": 336.8
+    },
+    "71352099999.csv": {
+        "valid_percent": 0.9844080868930266,
+        "longitude": -80.4166666,
+        "latitude": 43.65,
+        "ELEVATION": 376.0
+    },
+    "71368099999.csv": {
+        "valid_percent": 0.998293172690763,
+        "longitude": -80.378611,
+        "latitude": 43.460833,
+        "ELEVATION": 321.25
+    },
+    "72419003889.csv": {
+        "valid_percent": 0.9537947243519532,
+        "longitude": -83.31444,
+        "latitude": 37.59139,
+        "ELEVATION": 413.0
+    },
+    "72430314813.csv": {
+        "valid_percent": 0.9945988499452355,
+        "longitude": -81.46417,
+        "latitude": 41.0375,
+        "ELEVATION": 318.1
+    },
+    "71573099999.csv": {
+        "valid_percent": 0.9872626871120846,
+        "longitude": -80.55,
+        "latitude": 42.8666666,
+        "ELEVATION": 232.0
+    },
+    "72521014895.csv": {
+        "valid_percent": 0.9996919496166484,
+        "longitude": -81.4435,
+        "latitude": 40.9181,
+        "ELEVATION": 368.8
+    },
+    "72428693824.csv": {
+        "valid_percent": 0.9946034136546185,
+        "longitude": -81.89222,
+        "latitude": 39.94444,
+        "ELEVATION": 268.6
+    },
+    "72425003860.csv": {
+        "valid_percent": 0.9986126323475721,
+        "longitude": -82.55485,
+        "latitude": 38.36532,
+        "ELEVATION": 251.3
+    },
+    "72522404852.csv": {
+        "valid_percent": 0.9924607520993063,
+        "longitude": -81.42361,
+        "latitude": 40.47194,
+        "ELEVATION": 271.7
+    },
+    "72525604857.csv": {
+        "valid_percent": 0.9953153523183643,
+        "longitude": -80.69583,
+        "latitude": 41.77806,
+        "ELEVATION": 278.3
+    },
+    "71297099999.csv": {
+        "valid_percent": 0.9156352683461118,
+        "longitude": -79.9,
+        "latitude": 43.2833333,
+        "ELEVATION": 102.0
+    },
+    "71263099999.csv": {
+        "valid_percent": 0.9990073932092004,
+        "longitude": -79.935,
+        "latitude": 43.173611,
+        "ELEVATION": 237.74
+    },
+    "71624099999.csv": {
+        "valid_percent": 0.9990690032858708,
+        "longitude": -79.630556,
+        "latitude": 43.677223,
+        "ELEVATION": 173.43
+    },
+    "71437099999.csv": {
+        "valid_percent": 0.9889033406352683,
+        "longitude": -79.8,
+        "latitude": 43.3,
+        "ELEVATION": 77.0
+    },
+    "72525014852.csv": {
+        "valid_percent": 0.9997102044541804,
+        "longitude": -80.6737,
+        "latitude": 41.2548,
+        "ELEVATION": 355.6
+    },
+    "72526014860.csv": {
+        "valid_percent": 0.9995778568820738,
+        "longitude": -80.1824,
+        "latitude": 42.0803,
+        "ELEVATION": 222.2
+    },
+    "71265099999.csv": {
+        "valid_percent": 0.9977683461117196,
+        "longitude": -79.3833333,
+        "latitude": 43.6166666,
+        "ELEVATION": 76.5
+    },
+    "72427303804.csv": {
+        "valid_percent": 0.9733479372033589,
+        "longitude": -81.4438,
+        "latitude": 39.3395,
+        "ELEVATION": 245.3
+    },
+    "72510404843.csv": {
+        "valid_percent": 0.9936359072654254,
+        "longitude": -80.215,
+        "latitude": 41.62639,
+        "ELEVATION": 427.5
+    },
+    "71171099999.csv": {
+        "valid_percent": 0.9841548010222709,
+        "longitude": -79.4,
+        "latitude": 43.1833333,
+        "ELEVATION": 79.0
+    },
+    "72037800122.csv": {
+        "valid_percent": 0.9622672508214677,
+        "longitude": -80.417,
+        "latitude": 41.033,
+        "ELEVATION": 327.1
+    },
+    "71432099999.csv": {
+        "valid_percent": 0.9940648959474261,
+        "longitude": -79.2166666,
+        "latitude": 43.25,
+        "ELEVATION": 79.0
+    },
+    "71697099999.csv": {
+        "valid_percent": 0.9987906170135086,
+        "longitude": -78.895,
+        "latitude": 43.922779,
+        "ELEVATION": 139.9
+    },
+    "71752099999.csv": {
+        "valid_percent": 0.9907425155166119,
+        "longitude": -79.33,
+        "latitude": 42.97,
+        "ELEVATION": 178.0
+    },
+    "72414013866.csv": {
+        "valid_percent": 0.9886842825848849,
+        "longitude": -81.59,
+        "latitude": 38.3794,
+        "ELEVATION": 278.1
+    },
+    "72427514894.csv": {
+        "valid_percent": 0.9995481927710843,
+        "longitude": -80.64722,
+        "latitude": 40.17639,
+        "ELEVATION": 364.3
+    },
+    "71262599999.csv": {
+        "valid_percent": 0.9968601679445053,
+        "longitude": -79.171667,
+        "latitude": 43.191666,
+        "ELEVATION": 97.84
+    },
+    "72526794868.csv": {
+        "valid_percent": 0.9147384994523549,
+        "longitude": -79.86667,
+        "latitude": 41.38333,
+        "ELEVATION": 469.4
+    },
+    "72335013877.csv": {
+        "valid_percent": 0.9828587075575027,
+        "longitude": -82.39898,
+        "latitude": 36.47967,
+        "ELEVATION": 455.9
+    },
+    "74498914747.csv": {
+        "valid_percent": 0.9973279481562614,
+        "longitude": -79.27222,
+        "latitude": 42.49333,
+        "ELEVATION": 203.9
+    },
+    "72520094823.csv": {
+        "valid_percent": 0.998496257758306,
+        "longitude": -80.2144,
+        "latitude": 40.4846,
+        "ELEVATION": 341.0
+    },
+    "72528704724.csv": {
+        "valid_percent": 0.9974032493610807,
+        "longitude": -78.93806,
+        "latitude": 43.10833,
+        "ELEVATION": 178.3
+    },
+    "72512464705.csv": {
+        "valid_percent": 0.9072380430814165,
+        "longitude": -79.94972,
+        "latitude": 40.77694,
+        "ELEVATION": 380.1
+    },
+    "72523504720.csv": {
+        "valid_percent": 0.909118291347207,
+        "longitude": -79.25,
+        "latitude": 42.15,
+        "ELEVATION": 525.2
+    },
+    "72528014733.csv": {
+        "valid_percent": 0.9986696787148595,
+        "longitude": -78.73615,
+        "latitude": 42.93997,
+        "ELEVATION": 216.2
+    },
+    "72520514762.csv": {
+        "valid_percent": 0.999463764147499,
+        "longitude": -79.92167,
+        "latitude": 40.35472,
+        "ELEVATION": 379.2
+    },
+    "71431099999.csv": {
+        "valid_percent": 0.9864708835341366,
+        "longitude": -78.1666666,
+        "latitude": 43.95,
+        "ELEVATION": 78.0
+    },
+    "72412003872.csv": {
+        "valid_percent": 0.9985898138006571,
+        "longitude": -81.123,
+        "latitude": 37.7836,
+        "ELEVATION": 760.2
+    },
+    "72417503802.csv": {
+        "valid_percent": 0.9888006571741511,
+        "longitude": -80.22889,
+        "latitude": 39.29556,
+        "ELEVATION": 367.3
+    },
+    "72412503859.csv": {
+        "valid_percent": 0.9979531763417305,
+        "longitude": -81.20366,
+        "latitude": 37.2978,
+        "ELEVATION": 870.1
+    },
+    "72417613736.csv": {
+        "valid_percent": 0.9956827309236947,
+        "longitude": -79.9207,
+        "latitude": 39.64981,
+        "ELEVATION": 373.6
+    },
+    "72526604751.csv": {
+        "valid_percent": 0.9976108981380065,
+        "longitude": -78.6355,
+        "latitude": 41.79835,
+        "ELEVATION": 642.2
+    },
+    "72512504787.csv": {
+        "valid_percent": 0.9967004381161008,
+        "longitude": -78.89326,
+        "latitude": 41.17947,
+        "ELEVATION": 550.4
+    },
+    "72417013729.csv": {
+        "valid_percent": 0.9745892661555312,
+        "longitude": -79.85544,
+        "latitude": 38.88989,
+        "ELEVATION": 595.7
+    },
+    "72529014768.csv": {
+        "valid_percent": 0.999833424607521,
+        "longitude": -77.67541,
+        "latitude": 43.11722,
+        "ELEVATION": 164.5
+    },
+    "72515754757.csv": {
+        "valid_percent": 0.9956393756845564,
+        "longitude": -77.99194,
+        "latitude": 42.10944,
+        "ELEVATION": 637.6
+    },
+    "72512704726.csv": {
+        "valid_percent": 0.9996851040525739,
+        "longitude": -78.83389,
+        "latitude": 40.31611,
+        "ELEVATION": 693.9
+    },
+    "71430099999.csv": {
+        "valid_percent": 0.9818136181087989,
+        "longitude": -77.15,
+        "latitude": 43.8333333,
+        "ELEVATION": 79.0
+    },
+    "72498894704.csv": {
+        "valid_percent": 0.9953290434465133,
+        "longitude": -77.71333,
+        "latitude": 42.57083,
+        "ELEVATION": 195.9
+    },
+    "72511954792.csv": {
+        "valid_percent": 0.979191767068273,
+        "longitude": -78.41167,
+        "latitude": 41.04667,
+        "ELEVATION": 459.9
+    },
+    "72411013741.csv": {
+        "valid_percent": 0.9978550565899964,
+        "longitude": -79.9741,
+        "latitude": 37.3169,
+        "ELEVATION": 346.7
+    },
+    "72512614736.csv": {
+        "valid_percent": 0.9977409638554217,
+        "longitude": -78.32028,
+        "latitude": 40.29639,
+        "ELEVATION": 446.6
+    },
+    "72519454778.csv": {
+        "valid_percent": 0.995627966411099,
+        "longitude": -77.05639,
+        "latitude": 42.6425,
+        "ELEVATION": 267.4
+    },
+    "72319393807.csv": {
+        "valid_percent": 0.9952103870025557,
+        "longitude": -80.22222,
+        "latitude": 36.13361,
+        "ELEVATION": 291.6
+    },
+    "72514654773.csv": {
+        "valid_percent": 0.9881685834246076,
+        "longitude": -76.38472,
+        "latitude": 43.34972,
+        "ELEVATION": 143.5
+    },
+    "72317013723.csv": {
+        "valid_percent": 0.9992561153705732,
+        "longitude": -79.9432,
+        "latitude": 36.0969,
+        "ELEVATION": 275.0
+    },
+    "72515614748.csv": {
+        "valid_percent": 0.9952628696604601,
+        "longitude": -76.89194,
+        "latitude": 42.15944,
+        "ELEVATION": 285.3
+    },
+    "72622794790.csv": {
+        "valid_percent": 0.9986788061336254,
+        "longitude": -76.02623,
+        "latitude": 43.98867,
+        "ELEVATION": 94.7
+    },
+    "72410013733.csv": {
+        "valid_percent": 0.9940466411098942,
+        "longitude": -79.20656,
+        "latitude": 37.32126,
+        "ELEVATION": 274.9
+    },
+    "72417713734.csv": {
+        "valid_percent": 0.9940945600584155,
+        "longitude": -77.945,
+        "latitude": 39.40375,
+        "ELEVATION": 165.0
+    },
+    "72515594761.csv": {
+        "valid_percent": 0.9951875684556407,
+        "longitude": -76.46667,
+        "latitude": 42.48333,
+        "ELEVATION": 335.0
+    },
+    "72410613728.csv": {
+        "valid_percent": 0.9879746257758306,
+        "longitude": -79.3351,
+        "latitude": 36.5729,
+        "ELEVATION": 168.2
+    },
+    "72406693706.csv": {
+        "valid_percent": 0.9997444322745528,
+        "longitude": -77.7304,
+        "latitude": 39.7062,
+        "ELEVATION": 209.4
+    },
+    "72519014771.csv": {
+        "valid_percent": 0.9968852683461117,
+        "longitude": -76.1038,
+        "latitude": 43.1111,
+        "ELEVATION": 124.9
+    },
+    "72401693736.csv": {
+        "valid_percent": 0.9976086162833151,
+        "longitude": -78.4552,
+        "latitude": 38.1374,
+        "ELEVATION": 192.3
+    },
+    "72514014778.csv": {
+        "valid_percent": 0.994402610441767,
+        "longitude": -76.9218,
+        "latitude": 41.24295,
+        "ELEVATION": 159.8
+    },
+    "72317493783.csv": {
+        "valid_percent": 0.9879837531945965,
+        "longitude": -79.47694,
+        "latitude": 36.04667,
+        "ELEVATION": 184.9
+    },
+    "72510514770.csv": {
+        "valid_percent": 0.9860989412194231,
+        "longitude": -76.86417,
+        "latitude": 40.82056,
+        "ELEVATION": 135.3
+    },
+    "72511814751.csv": {
+        "valid_percent": 0.9985829682365827,
+        "longitude": -76.85139,
+        "latitude": 40.21722,
+        "ELEVATION": 102.1
+    },
+    "72403093738.csv": {
+        "valid_percent": 0.9986924972617743,
+        "longitude": -77.44728,
+        "latitude": 38.93486,
+        "ELEVATION": 89.5
+    },
+    "72403603710.csv": {
+        "valid_percent": 0.9143756845564075,
+        "longitude": -77.51528,
+        "latitude": 38.72139,
+        "ELEVATION": 58.5
+    },
+    "72399014711.csv": {
+        "valid_percent": 0.9984483388097846,
+        "longitude": -76.7724,
+        "latitude": 40.1962,
+        "ELEVATION": 91.1
+    },
+    "72511493778.csv": {
+        "valid_percent": 0.9885154253377145,
+        "longitude": -76.87417,
+        "latitude": 39.91806,
+        "ELEVATION": 141.4
+    },
+    "72514454723.csv": {
+        "valid_percent": 0.9557434282584885,
+        "longitude": -76.56667,
+        "latitude": 40.43333,
+        "ELEVATION": 148.7
+    },
+    "72403513773.csv": {
+        "valid_percent": 0.9884697882438847,
+        "longitude": -77.30503,
+        "latitude": 38.50362,
+        "ELEVATION": 3.0
+    },
+    "72403793728.csv": {
+        "valid_percent": 0.9783520445418036,
+        "longitude": -77.18333,
+        "latitude": 38.71667,
+        "ELEVATION": 22.3
+    },
+    "72405013743.csv": {
+        "valid_percent": 0.9999566447608617,
+        "longitude": -77.03454,
+        "latitude": 38.8472,
+        "ELEVATION": 4.1
+    },
+    "72511654737.csv": {
+        "valid_percent": 0.9991214859437751,
+        "longitude": -76.29444,
+        "latitude": 40.12028,
+        "ELEVATION": 121.1
+    },
+    "72308493775.csv": {
+        "valid_percent": 0.9824958926615553,
+        "longitude": -77.43444,
+        "latitude": 37.70806,
+        "ELEVATION": 61.5
+    },
+    "74594013705.csv": {
+        "valid_percent": 0.9970244614822928,
+        "longitude": -76.86667,
+        "latitude": 38.81667,
+        "ELEVATION": 86.0
+    },
+    "72406093721.csv": {
+        "valid_percent": 0.9980581416575393,
+        "longitude": -76.684,
+        "latitude": 39.1733,
+        "ELEVATION": 42.0
+    },
+    "72401013740.csv": {
+        "valid_percent": 0.9991237677984666,
+        "longitude": -77.32344,
+        "latitude": 37.51151,
+        "ELEVATION": 50.7
+    },
+    "99999913752.csv": {
+        "valid_percent": 0.9699000547645126,
+        "longitude": -76.4891,
+        "latitude": 38.9913,
+        "ELEVATION": 1.8
+    },
+    "72404013721.csv": {
+        "valid_percent": 0.9993793355239139,
+        "longitude": -76.41667,
+        "latitude": 38.3,
+        "ELEVATION": 11.9
+    },
+    "72551403757.csv": {
+        "valid_percent": 0.9899050748448339,
+        "longitude": -76.42917,
+        "latitude": 38.14167,
+        "ELEVATION": 6.4
+    },
+    "72401993773.csv": {
+        "valid_percent": 0.9725766703176342,
+        "longitude": -77.0012,
+        "latitude": 36.9827,
+        "ELEVATION": 32.0
+    },
+    "72308793735.csv": {
+        "valid_percent": 0.9892136728733114,
+        "longitude": -76.6,
+        "latitude": 37.13333,
+        "ELEVATION": 3.7
+    },
+    "72308693741.csv": {
+        "valid_percent": 0.997793446513326,
+        "longitude": -76.49306,
+        "latitude": 37.13194,
+        "ELEVATION": 10.9
+    },
+    "74598013702.csv": {
+        "valid_percent": 0.9948703906535232,
+        "longitude": -76.36028,
+        "latitude": 37.08278,
+        "ELEVATION": 3.0
+    },
+    "72308513750.csv": {
+        "valid_percent": 0.9995436290617014,
+        "longitude": -76.28926,
+        "latitude": 36.93746,
+        "ELEVATION": 5.2
+    },
+    "72308013737.csv": {
+        "valid_percent": 0.9996075209930632,
+        "longitude": -76.1922,
+        "latitude": 36.9033,
+        "ELEVATION": 3.3
+    },
+    "72517213762.csv": {
+        "valid_percent": 0.9792921686746988,
+        "longitude": -76.13556,
+        "latitude": 36.695,
+        "ELEVATION": 3.0
+    },
+    "72307513769.csv": {
+        "valid_percent": 0.9986422964585615,
+        "longitude": -76.03333,
+        "latitude": 36.81667,
+        "ELEVATION": 7.0
+    },
+    "72307013786.csv": {
+        "valid_percent": 0.9993131617378606,
+        "longitude": -76.175,
+        "latitude": 36.26056,
+        "ELEVATION": 1.7
+    }
+}

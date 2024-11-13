@@ -1,0 +1,9 @@
+*.log
+
+/exp_baseline/
+
+/exp_demo/
+
+/logs/
+
+*.ipynb

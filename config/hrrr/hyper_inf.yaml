@@ -1,0 +1,79 @@
+exp_name: hyper_inf_baseline1
+exp_parent_path: ./exp_baseline
+model_name: HyperINF
+dataset_name: HRRR_Dataset
+device: 'cuda'
+mode: train
+train_cfg:
+  weather5k_data_path: '/home/bingxing2/ailab/group/ai4earth/data/weather-5k/WEATHER-5K/hrrr'
+  hrrr_data_path: '/home/bingxing2/ailab/group/ai4earth/data/hrrr_np_704x1504/'
+  # norm_path:
+  #   hrrr_norm_path: '/home/bingxing2/ailab/scxlab0056/DATA/mean_std_hrrr.json'
+  #   w5k_norm_path: '/home/bingxing2/ailab/scxlab0056/DATA/mean_std_weather5k.json'
+  pred_names:
+    hrrr: ['t'] #, 'sp','gust', 
+    w5k: ['t', 'wind', 'lon', 'lat', 'ele']
+
+  input_resolution: 0.03125
+  target_resolution: 0.03125 #0.03125
+
+  #HRRR_R1
+  lon_range: [275., 285.]
+  lat_range: [35., 45.]
+
+  train_time_span: ['2017-01-01 01:00:00', '2020-08-31 23:00:00']
+  valid_time_span: ['2020-09-01 01:00:00', '2020-12-31 23:00:00']
+  test_time_span: ['2021-01-01 01:00:00', '2021-12-31 23:00:00']
+
+  batch_size: 32
+  num_epoch: 120
+  num_workers: 4
+
+  log:
+    log_step: 10
+    with_vis: True
+    with_path: 
+  resume: True
+  checkpoint:
+    save_epoch: 5
+    checkpoint_name: /home/bingxing2/ailab/scxlab0056/CODE/Reconst_DS/exp_baseline/hyper_inf_baseline1/checkpoint/HyperINF_epoch_latest.pth
+  loss_cfg:
+      name: 'MSELoss'
+      #scale: 0.5
+  optimizer:
+    name: 'Adam'
+    lr: 0.0001
+  lr_schedule:
+    name: 'MultiStepLR'
+    milestones: [60,96,108,114]
+    gamma: 0.5
+
+# # Restormer
+# network:
+#   num_blocks: [6, 2, 2, 2]
+#   num_heads: [1, 2, 4, 4]
+#   channels: [48, 96, 192, 384]
+#   num_refinement: 4
+#   expansion_factor: 2.66
+#   upscale_factor: 4
+
+# SwinIR
+network:
+  hyper_network_type: 'resnet18unet'
+  hyper_input_channels: 1
+  hyper_height: 320
+  hyper_width: 320
+  coord_dim: 2
+  hidden_dim: 128
+  input_weight_dim: 512
+  input_embed_dim: 64
+  hyper_kwargs: 
+      upsample_factor: 1
+      output_layer: -1
+      decoder_channels: [256, 128, 64, 32, 16]
+
+
+
+test_cfg:
+  resume: False
+  checkpoint_name: /home/bingxing2/ailab/scxlab0056/CODE/DS_ISPRS/exp_hrrr/hrrr_sr_swinir_scatch_5year_8x_120epoch/logs/checkpoint/SwinIR_epoch_latest.pth

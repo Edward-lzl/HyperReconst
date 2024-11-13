@@ -1,0 +1,77 @@
+exp_name: demo0
+exp_parent_path: ./exp_demo
+model_name: Baseline
+dataset_name: HRRR_Dataset
+device: 'cpu'
+mode: train
+train_cfg:
+  weather5k_data_path: '/home/bingxing2/ailab/group/ai4earth/data/weather-5k/WEATHER-5K/hrrr'
+  hrrr_data_path: '/home/bingxing2/ailab/group/ai4earth/data/hrrr_np_704x1504/'
+
+  with_norm: False
+  norm_path:
+    hrrr_norm_path: '/home/bingxing2/ailab/scxlab0056/DATA/mean_std_hrrr.json'
+    w5k_norm_path: '/home/bingxing2/ailab/scxlab0056/DATA/mean_std_weather5k.json'
+  pred_names:
+    hrrr: ['t'] #, 'sp','gust', 
+    w5k: ['t', 'wind', 'lon', 'lat', 'ele']
+
+  input_resolution: 0.03125
+  target_resolution: 0.03125 #0.03125
+
+  #HRRR_R1
+  lon_range: [275., 285.]
+  lat_range: [35., 45.]
+
+  train_time_span: ['2017-01-01 01:00:00', '2020-08-31 23:00:00']
+  valid_time_span: ['2020-09-01 01:00:00', '2020-12-31 23:00:00']
+  test_time_span: ['2021-01-01 01:00:00', '2021-12-31 23:00:00']
+
+  batch_size: 1
+  num_epoch: 120
+  num_workers: 4
+
+  log:
+    log_step: 10
+    with_vis: True
+    with_path: 
+  resume: False
+  checkpoint:
+    save_epoch: 5
+    checkpoint_name: ~
+  loss_cfg:
+      name: 'MSELoss'
+      #scale: 0.5
+  optimizer:
+    name: 'Adam'
+    lr: 0.0001
+  lr_schedule:
+    name: 'MultiStepLR'
+    milestones: [60,96,108,114]
+    gamma: 0.5
+
+# # Restormer
+# network:
+#   num_blocks: [6, 2, 2, 2]
+#   num_heads: [1, 2, 4, 4]
+#   channels: [48, 96, 192, 384]
+#   num_refinement: 4
+#   expansion_factor: 2.66
+#   upscale_factor: 4
+
+# SwinIR
+network:
+  encoder_cfg:
+    name: 'resnet18'
+    num_classes: ~
+    in_channels: 1
+    pretrained: False
+    out_keys: ['block2', 'block3', 'block4', 'block5', 'block6']
+  variable_net_cfg: 
+    feature_size: 128
+
+
+
+test_cfg:
+  resume: True
+  checkpoint_name: /home/bingxing2/ailab/scxlab0056/CODE/DS_ISPRS/exp_hrrr/hrrr_sr_swinir_scatch_5year_8x_120epoch/logs/checkpoint/SwinIR_epoch_latest.pth

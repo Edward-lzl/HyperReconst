@@ -1,0 +1,80 @@
+{
+    "72511654737.csv": {
+        "valid_percent": 0.9991214859437751,
+        "longitude": -76.29444,
+        "latitude": 40.12028,
+        "ELEVATION": 121.1
+    },
+    "72406093721.csv": {
+        "valid_percent": 0.9980581416575393,
+        "longitude": -76.684,
+        "latitude": 39.1733,
+        "ELEVATION": 42.0
+    },
+    "72637594817.csv": {
+        "valid_percent": 0.9985350492880614,
+        "longitude": -83.41806,
+        "latitude": 42.665,
+        "ELEVATION": 295.4
+    },
+    "74498914747.csv": {
+        "valid_percent": 0.9973279481562614,
+        "longitude": -79.27222,
+        "latitude": 42.49333,
+        "ELEVATION": 203.9
+    },
+    "72520804855.csv": {
+        "valid_percent": 0.9736924972617744,
+        "longitude": -83.06361,
+        "latitude": 40.61611,
+        "ELEVATION": 300.3
+    },
+    "72307513769.csv": {
+        "valid_percent": 0.9986422964585615,
+        "longitude": -76.03333,
+        "latitude": 36.81667,
+        "ELEVATION": 7.0
+    },
+    "71352099999.csv": {
+        "valid_percent": 0.9844080868930266,
+        "longitude": -80.4166666,
+        "latitude": 43.65,
+        "ELEVATION": 376.0
+    },
+    "72515594761.csv": {
+        "valid_percent": 0.9951875684556407,
+        "longitude": -76.46667,
+        "latitude": 42.48333,
+        "ELEVATION": 335.0
+    },
+    "72512614736.csv": {
+        "valid_percent": 0.9977409638554217,
+        "longitude": -78.32028,
+        "latitude": 40.29639,
+        "ELEVATION": 446.6
+    },
+    "72511954792.csv": {
+        "valid_percent": 0.979191767068273,
+        "longitude": -78.41167,
+        "latitude": 41.04667,
+        "ELEVATION": 459.9
+    },
+    "71261099999.csv": {
+        "valid_percent": 0.991700894487039,
+        "longitude": -81.7166666,
+        "latitude": 43.7666666,
+        "ELEVATION": 214.0
+    },
+    "72511814751.csv": {
+        "valid_percent": 0.9985829682365827,
+        "longitude": -76.85139,
+        "latitude": 40.21722,
+        "ELEVATION": 102.1
+    },
+    "72403603710.csv": {
+        "valid_percent": 0.9143756845564075,
+        "longitude": -77.51528,
+        "latitude": 38.72139,
+        "ELEVATION": 58.5
+    }
+}
